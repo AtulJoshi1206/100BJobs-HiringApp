@@ -53,9 +53,11 @@ The score is used to sort and select the top 5 best-fit candidates.
 ## ▶️ How to Run
 
 1. Clone this repo:
-```bash
+
 git clone https://github.com/AtulJoshi1206/100BJobs-HiringApp.git
-cd 100BJobs-HiringApp
+cd 100BJobs-HiringApp 
+
+
 
 ![WhatsApp Image 2025-07-16 at 19 30 14_708a9a7c](https://github.com/user-attachments/assets/ed3c4982-21ab-4e8d-8d6f-b7617937d6ee)
 
