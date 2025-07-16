@@ -1,0 +1,409 @@
+[
+  {
+    "name":"Radiant Iguana",
+    "email":"radiant-iguana@example.com",
+    "phone":null,
+    "location":"Argentina",
+    "submitted_at":"2025-01-28 05:42:29.000000",
+    "work_availability":[
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation":{
+      "full-time":"$49135"
+    },
+    "work_experiences":[
+      {
+        "company":"TrueML",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Noq",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Selehann",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Noble1",
+        "roleName":"Software Architect"
+      },
+      {
+        "company":"Hexacta",
+        "roleName":"Software Architect"
+      },
+      {
+        "company":"Cybersecurity Company",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Turner",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Hx Labs",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Equinauts",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"YPF-Revamping Extranets",
+        "roleName":"Software Developer"
+      }
+    ],
+    "education":{
+      "highest_level":"Bachelor's Degree",
+      "degrees":[
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"Computer Science",
+          "school":"International Institutions",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"",
+          "endDate":"",
+          "originalSchool":"Universidad Nacional de La Plata",
+          "isTop50":false
+        }
+      ]
+    },
+    "skills":[
+
+    ],
+    "score":135
+  },
+  {
+    "name":"Vibrant Jaguar",
+    "email":"vibrant-jaguar@example.com",
+    "phone":"52461487105",
+    "location":"Hermosillo",
+    "submitted_at":"2025-01-28 17:29:05.000000",
+    "work_availability":[
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation":{
+      "full-time":"$85260"
+    },
+    "work_experiences":[
+      {
+        "company":"GoSite",
+        "roleName":"Full Stack Developer"
+      },
+      {
+        "company":"Vivid Health through BigRio",
+        "roleName":"Full Stack Developer"
+      },
+      {
+        "company":"Presence Learning",
+        "roleName":"Software Engineer"
+      },
+      {
+        "company":"Encora",
+        "roleName":"Software Engineer"
+      },
+      {
+        "company":"Presence Learning",
+        "roleName":"Senior Frontend Engineer"
+      },
+      {
+        "company":"SwitchFly and American Express",
+        "roleName":"Full Stack Developer"
+      },
+      {
+        "company":"Qualtop",
+        "roleName":"Frontend Engineer"
+      },
+      {
+        "company":"Grupo Salinas",
+        "roleName":"Web Developer"
+      },
+      {
+        "company":"Genuitec",
+        "roleName":"Technical Support Engineer"
+      }
+    ],
+    "education":{
+      "highest_level":"Bachelor's Degree",
+      "degrees":[
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"Computer Science",
+          "school":"Top Schools",
+          "gpa":"GPA 3.5-3.9",
+          "startDate":"",
+          "endDate":"2019",
+          "originalSchool":"Scholarship",
+          "isTop50":true
+        }
+      ]
+    },
+    "skills":[
+      "JavaScript",
+      "Lua",
+      "Amazon Web Services",
+      "Jest",
+      "MongoDB",
+      "Nest JS",
+      "Docker",
+      "React",
+      "Java",
+      "TypeScript",
+      "Node JS",
+      "Angular",
+      "TailwindCSS"
+    ],
+    "score":125
+  },
+  {
+    "name":"Energetic Iguana",
+    "email":"energetic-iguana@example.com",
+    "phone":"573203500458",
+    "location":"Bogot\u00e1",
+    "submitted_at":"2025-01-26 11:10:21.000000",
+    "work_availability":[
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation":{
+      "full-time":"$66708"
+    },
+    "work_experiences":[
+      {
+        "company":"Chibios",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"Bext SA",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"MandA",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Bogot\u00e1 Collection",
+        "roleName":"Software Developer"
+      },
+      {
+        "company":"Experis",
+        "roleName":"Java Developer"
+      },
+      {
+        "company":"Everis",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"Essecorp",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"SOAINT",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"Woombat CG",
+        "roleName":"Software Developer"
+      }
+    ],
+    "education":{
+      "highest_level":"Bachelor's Degree",
+      "degrees":[
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"",
+          "school":"International Institutions",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"2010",
+          "endDate":"2016",
+          "originalSchool":"National University of Colombia",
+          "isTop50":false
+        },
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"",
+          "school":"International Institutions",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"",
+          "endDate":"2006",
+          "originalSchool":"Simon Bolivar Military College",
+          "isTop50":false
+        }
+      ]
+    },
+    "skills":[
+      "Amazon Web Services",
+      "Azure",
+      "Java",
+      "React",
+      "React Native",
+      "SQL",
+      "Agile",
+      "Angular",
+      "Tableau",
+      "PostgreSQL",
+      "Hadoop",
+      "IoT"
+    ],
+    "score":125
+  },
+  {
+    "name":"Cheerful Urchin",
+    "email":"cheerful-urchin@example.com",
+    "phone":"44",
+    "location":"Sunbury-on-Thames",
+    "submitted_at":"2025-01-28 22:30:55.000000",
+    "work_availability":[
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation":{
+      "full-time":"$93307"
+    },
+    "work_experiences":[
+      {
+        "company":"RisingStars",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"OnMobile",
+        "roleName":"Senior Software Engineer"
+      },
+      {
+        "company":"ICICI Prudential",
+        "roleName":"Technical Project Manager"
+      },
+      {
+        "company":"SARAS Corporate Product",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"IDBI Federal",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"ISaras",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"CHL",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"Nidec",
+        "roleName":"Lead Software Engineer"
+      },
+      {
+        "company":"Panasonic",
+        "roleName":"Lead Software Engineer"
+      }
+    ],
+    "education":{
+      "highest_level":"Bachelor's Degree",
+      "degrees":[
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"",
+          "school":"International Institutions",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"",
+          "endDate":"2009",
+          "originalSchool":"Visvesvaraya Technological University",
+          "isTop50":false
+        }
+      ]
+    },
+    "skills":[
+      "Project Management",
+      "JavaScript",
+      "SQL",
+      "Java",
+      "Angular",
+      "HTML\/CSS"
+    ],
+    "score":125
+  },
+  {
+    "name":"Reliable Ibex",
+    "email":"reliable-ibex@example.com",
+    "phone":"12033761727",
+    "location":"United States",
+    "submitted_at":"2025-01-27 10:44:53.000000",
+    "work_availability":[
+      "full-time",
+      "part-time"
+    ],
+    "annual_salary_expectation":{
+      "full-time":"$71328"
+    },
+    "work_experiences":[
+      {
+        "company":"Outlier",
+        "roleName":"Writer"
+      },
+      {
+        "company":"Deland High School",
+        "roleName":"Teacher"
+      },
+      {
+        "company":"Hamden Hall Country Day School",
+        "roleName":"Teacher"
+      },
+      {
+        "company":"Southern New Hampshire University",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"SUNY Empire State College",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"University of Phoenix",
+        "roleName":"Consultant"
+      },
+      {
+        "company":"Survival Group",
+        "roleName":"Legal Specialist"
+      },
+      {
+        "company":"Willinger, Willinger & Bucci",
+        "roleName":"Attorney"
+      },
+      {
+        "company":"MetLife",
+        "roleName":"Legal Specialist"
+      }
+    ],
+    "education":{
+      "highest_level":"Juris Doctor (J.D)",
+      "degrees":[
+        {
+          "degree":"Juris Doctor (J.D)",
+          "subject":"",
+          "school":"State Universities",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"",
+          "endDate":"",
+          "originalSchool":"University of Connecticut School of Law",
+          "isTop50":false
+        },
+        {
+          "degree":"Bachelor's Degree",
+          "subject":"Political Science",
+          "school":"State Universities",
+          "gpa":"GPA 3.0-3.4",
+          "startDate":"",
+          "endDate":"",
+          "originalSchool":"University of Connecticut",
+          "isTop50":false
+        }
+      ]
+    },
+    "skills":[
+      "Content Creation"
+    ],
+    "score":125
+  }
+]
